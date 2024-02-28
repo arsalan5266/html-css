@@ -1,0 +1,19 @@
+#customers{
+    border-collapse: collapse;
+    width: 100%;
+}
+#customers td, customer th {
+  border: 1px solid #ddd;
+  padding: 8px;
+}
+#customers tr:hover{
+   background-color: #ddd;
+}
+#customers th{
+   padding-top: 12px;
+   padding-bottom: 12px;
+  text-align: left;
+  background-color: #201f1f;
+  color: white;
+
+}
